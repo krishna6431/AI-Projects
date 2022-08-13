@@ -1,0 +1,38 @@
+#N-Puzzle Testcase
+
+#Testdata - 1
+
+Input:
+	[3 5 6]
+	[2 8 4]
+	[0 7 1]
+
+Output:
+	BFS Steps: 88988
+	DFS Steps: 141045
+
+	BFS Performs Better than DFS
+	
+#Testdata - 2
+	[6 5 7]
+	[0 8 2]
+	[3 4 1]
+	
+Output:
+	BFS Steps: 178056
+	DFS Steps: 83087
+
+	DFS Performs Better than BFS
+	
+#Testdata - 3
+	[3 2 1]
+	[4 5 6]
+	[8 7 0]
+
+Output:
+	BFS Steps: 116948
+	DFS Steps: 135307
+
+	BFS Performs Better than DFS
+
+	
