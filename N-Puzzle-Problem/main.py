@@ -363,7 +363,7 @@ if __name__=='__main__':
 
 
         # Final Output
-        print("*************Overall Statstics****************")
+        print("****************************Overall Statstics*******************************")
         print("Steps taken by BFS algorithm = ",end="")
         print(stepInBFS)
         print("Time taken by BFS : ",endtimebfs-starttimebfs)
@@ -379,7 +379,7 @@ if __name__=='__main__':
             print("DFS algorithm Performs Better than BFS algorithm for this given Puzzle.")
         else:
             print("Both BFS and DFS algorithm solves the given Puzzle in equivalent time.")
-        print("**Thank You So Much For Using Our Application**")
+        print("*************Thank You So Much For Using Our Application*******************")
     # Unsolvable
     else:
         print("Ooops! Try With New Puzzle")
