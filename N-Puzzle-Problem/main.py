@@ -2,7 +2,7 @@
 # N-Puzzle Solution                            #
 # Artificial Intelligence Assignment - 1       #
 # M.Tech CSE 24'                               #
-                        #
+
 # Name : Krishna Kant Verma (2211CS19)         #
 # copyright@krishna6431
 ################################################
