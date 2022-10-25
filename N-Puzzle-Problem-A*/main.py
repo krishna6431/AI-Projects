@@ -1,7 +1,6 @@
 #Artificial Intelligence Assignment 2
 #Name : Krishna Kant Verma(2211cs19)
-#Name : Krishna Kant Verma(2211cs08)
-#Name : Krishna Kant Verma(2211cs01)
+copyright@krishna6431
 
 #all required libraries that are needed
 # priority queue
